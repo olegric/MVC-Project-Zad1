@@ -17,7 +17,7 @@ Projekt polega na utworzeniu aplikacji do zarządzania kolekcją książek elekt
 
 ## Instrukcje obsługi
 1. **Instalacja**
-   - Sklonuj repozytorium: `git clone https://github.com/your-username/book-catalog.git`
+   - Sklonuj repozytorium: `git clone https://github.com/olegric/MVC-Project-Zad1`
    - Zainstaluj zależności: `npm install`
 
 2. **Uruchomienie aplikacji**
